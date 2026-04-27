@@ -125,6 +125,5 @@ notebooks/
 images/
  ├── top10_paises_medallas.png
  ├── evolucion_medallas_anio.png
- ├── participacion_tipo.png
  └── top10_deportes_medallas.png
 ```
