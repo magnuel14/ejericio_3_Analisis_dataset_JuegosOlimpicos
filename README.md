@@ -61,16 +61,6 @@ Se analizó cómo ha cambiado la cantidad de medallas a lo largo del tiempo.
 
 ![Evolución](images/evolucion_medallas_anio.png)
 
----
-
-### 👥 Participación por tipo
-
-Dado que el dataset no contiene una variable explícita de género, se analizó la participación según el tipo:
-
-* Atletas individuales
-* Equipos
-
-![Participación](images/participacion_tipo.png)
 
 ---
 
