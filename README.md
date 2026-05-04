@@ -117,3 +117,14 @@ images/
  ├── evolucion_medallas_anio.png
  └── top10_deportes_medallas.png
 ```
+
+## Extensión del proyecto: estimación del desempeño futuro
+### ¿Cómo rediseñarían el proyecto para estimar el desempeño futuro de un país en los Juegos Olímpicos, considerando factores externos que no están en el dataset?
+
+Para rediseñar el proyecto con el objetivo de estimar el desempeño futuro de un país en los Juegos Olímpicos, sería necesario ampliar el enfoque actual incorporando factores externos que no están presentes en el dataset original. El análisis histórico de medallas es un buen punto de partida, pero por sí solo no captura todas las variables que influyen en el rendimiento deportivo.
+
+Una primera mejora consistiría en integrar datos socioeconómicos por país, como inversión pública en deporte, Producto Interno Bruto, población, nivel de desarrollo o presupuesto destinado a los comités olímpicos nacionales. Estos datos permitirían contextualizar el desempeño deportivo dentro de la capacidad estructural de cada país. Asimismo, se podrían incorporar variables relacionadas con la localía, ya que los países anfitriones suelen mostrar un mejor rendimiento, así como factores políticos o históricos como boicots, conflictos o ausencias en determinadas ediciones.
+
+Otra extensión relevante sería añadir información demográfica y deportiva, como número de atletas participantes por país, edad promedio del equipo, experiencia previa o tendencia de crecimiento en ediciones recientes. Con estas variables, se podría construir un modelo predictivo utilizando técnicas de aprendizaje automático, como regresión, árboles de decisión o modelos de clasificación, que permita estimar rangos probables de medallas futuras.
+
+Finalmente, para asegurar la confiabilidad de las predicciones, sería fundamental validar los modelos con datos históricos y evitar un impacto negativo en la interpretación, manteniendo un enfoque estadístico explicable. De esta manera, el proyecto pasaría de un análisis descriptivo a un sistema predictivo con valor estratégico.
